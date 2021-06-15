@@ -1,0 +1,22 @@
+[
+  {
+    "uid": "A",
+    "title": "공학계열",
+    "thumbnail": "assets/ys_images/ys0.jpg"
+  },
+  {
+    "uid": "B",
+    "title": "자연과학계열",
+    "thumbnail": "assets/ys_images/ys01.jpg"
+  },
+  {
+    "uid": "C",
+    "title": "인문사회계열",
+    "thumbnail": "assets/ys_images/ys02.jpg"
+  },
+  {
+    "uid": "D",
+    "title": "예체능계열",
+    "thumbnail": "assets/ys_images/ys03.jpg"
+  }
+]
